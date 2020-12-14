@@ -1,0 +1,226 @@
+{
+    "header": {
+        "title": "Casas, departamentos en arriendo y venta - Portalinmobiliario.com y MercadoLibre.cl",
+        "description": "Encuentra Casas en Venta y Arriendo, Departamantos en Arriendo y Venta, Oficinas en Arriendo en el Portal Inmobiliario N&#176;1 de Chile.",
+        "site_name": "Casas, departamentos en arriendo y venta - Portalinmobiliario.com y MercadoLibre.cl"
+    },
+    "tracks": [
+        {
+            "provider": "MELIDATA",
+            "type": "view",
+            "path": "/home/category/real_estate/help",
+            "event_data": {
+                "category_id": "MLC1459",
+                "category_path": [
+                    "MLC1459"
+                ]
+            }
+        },
+        {
+            "provider": "GOOGLE_ANALYTICS",
+            "type": "view",
+            "section": "/PORTAL",
+            "page": "/PORTAL/FAQ/AYUDA",
+            "event_data": {
+                "business": "CLASSIFIED",
+                "pageVertical": "REAL_ESTATE",
+                "experiment8": "REAL_ESTATE_NEW_WORLD"
+            }
+        }
+    ],
+    "faqs": {
+        "title": "¿Cómo podemos ayudarte?",
+        "seed": "Ayuda",
+        "items": [
+            {
+                "number": 1,
+                "title": "Configuración de mi cuenta",
+                "childs": [
+                    {
+                        "number": 1,
+                        "title": "Cambiar mis datos",
+                        "summary": "Desde <a href=https://myaccount.portalinmobiliario.com/profile>Mis datos</a> podrás modificar tu información personal como tu teléfono o dirección."
+                    },
+                    {
+                        "number": 2,
+                        "title": "Recuperar mi cuenta",
+                        "summary": "Para recuperar tu clave, al momento de iniciar sesión, selecciona No sé mi clave y te enviaremos un código a tu mail para que crees una nueva.<br /><br />En caso de tener un teléfono de seguridad asociado, puedes elegir recibir el código como mensaje de texto, llamado telefónico o a través de una notificación en la aplicación de Mercado Libre.<br /><br />Una vez ingresado el código, vas a seguir navegando en Portalinmobiliario.com, por eso, no olvides ir a <a href=https://www.portalinmobiliario.com/security>Seguridad</a> y cambiar tu clave. De esta forma, evitas hacer el paso del código dos veces."
+                    },
+                    {
+                        "number": 3,
+                        "title": "Cambié el número y/o equipo del celular con el que usaba el código de seguridad adicional",
+                        "summary": "¿Cambiaste tu número de teléfono? Puedes actualizarlo desde <a href=https://myaccount.portalinmobiliario.com/profile>Mis datos</a>."
+                    },
+                    {
+                        "number": 4,
+                        "title": "Registrarme como empresa, agencia e inmobiliaria",
+                        "summary": "Si eres <strong>Corredor</strong>, conoce <a href=https://www.portalinmobiliario.com/pi/home/info/corredoras>los planes que tenemos para ti</a>, elige el que más se adapte a tus necesidades y presiona Contratar. Completa el formulario para que nuestros asesores comerciales te contacten a la brevedad.<br /><br />Si eres <strong>Inmobiliaria</strong>, te recomendamos que veas el <a href=https://www.portalinmobiliario.com/pi/home/info/inmobiliarias>cuadro comparativo de nuestros planes</a>. Presiona Contratar en el que prefieras, completa el formulario y un asesor comercial te contactará a la brevedad."
+                    },
+                    {
+                        "number": 5,
+                        "title": "Quiero cancelar o dar de baja mi cuenta como empresa",
+                        "summary": "Para cancelar tu cuenta, debes contactarte con tu asesor comercial. Si no sabes cómo hacerlo, ingresa a <a href=https://myaccount.portalinmobiliario.com/>Mi cuenta</a>. Abajo aparece el nombre y e-mail de tu ejecutivo. Indícale los productos que quieres eliminar y los motivos, así nos ayudas a mejorar."
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "title": "Publicando",
+                "childs": [
+                    {
+                        "number": 1,
+                        "title": "Publicaciones",
+                        "summary": ""
+                    },
+                    {
+                        "number": 1.1,
+                        "title": "Cómo hacer una buena publicación",
+                        "summary": "Si quieres hacer una publicación de calidad, mira los siguientes consejos:<br /><br />-<strong> Procura mantener propiedades con oferta viva</strong>, es decir, publicaciones vigentes, evitando la frustración de los usuarios al cotizar viviendas no disponibles.<br /><br />-<strong> Utiliza imágenes de buena calidad</strong>, sin logos, sellos de agua, collage, ni personas, respetando la privacidad de tus clientes y otorgándole a los usuarios información gráfica de calidad.<br /><br />-<strong> Cuida los textos</strong>, no incluyas datos de contacto, textos discriminatorios o información incoherente con los datos de la propiedad o tipo de operación.<br /><br />-<strong> Indica la dirección exacta del inmueble</strong> para que podamos localizarla correctamente. Incluye calle, número, comuna y ciudad.<br /><br />-<strong> Completa todos los campos</strong>, mientras más información le des al usuario, mayor será su interés en tu publicación."
+                    },
+                    {
+                        "number": 1.2,
+                        "title": "Cómo hacer que mi publicación se destaque",
+                        "summary": "<strong>Corredores</strong><br /><br />Ingresa al listado de propiedades en Seguidor, elige la que quieres destacar y selecciona Publicar/Destacar. En la ventana emergente, presiona nuevamente Publicar y destacar y Aceptar.<br /><br />Si no tienes cupos de destaque, se te dará la opción de pago y una vez confirmado, tu publicación será destacada.<br /><br />También puedes contactar a tu ejecutivo comercial para recibir consejos y potenciar tu negocio <a href=mailto:ventas@portalinmobiliario.com>ventas@portalinmobiliario.com</a>.<br /><br /><strong>Inmobiliarias</strong><br /><br />Contáctate con tu asesor comercial y verás las opciones que tienes para destacar tus publicaciones. Puedes encontrar sus datos de contacto desde <a href=https://myaccount.portalinmobiliario.com/>Mi cuenta</a>. Ahí verás el nombre y el e-mail de tu ejecutivo.<br /><br /><strong>Particulares</strong><br /><br />Si estás creando una nueva publicación, selecciona Publica tu propiedad y completa los datos del inmueble. Podrás elegir el tipo de exposición que quieras para destacar la propiedad.<br /><br />Si la propiedad ya está publicada y quieres mejorar su exposición, ingresa al <a href=https://myaccount.portalinmobiliario.com/listings>listado de publicaciones</a> y desde el menú de acciones de la derecha elige Aumentar exposición. Una vez que elijas el tipo de exposición, podrás pagar y listo.",
+                        "table": {
+                            "heading": [
+                                "Gratuita",
+                                "Plata",
+                                "Oro",
+                                "Oro premium"
+                            ],
+                            "body": [
+                                [
+                                    "Exposición baja",
+                                    "Exposición media",
+                                    "Exposición alta",
+                                    "Exposición máxima"
+                                ],
+                                [
+                                    "Gratis",
+                                    "Costo por publicar<br /><strong>UF 0,5 + IVA</strong>",
+                                    "Costo por publicar<br /><strong>UF 1 + IVA</strong>",
+                                    "Costo por publicar<br /><strong>UF 2 + IVA</strong>"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "number": 1.3,
+                        "title": "Renovar, despublicar, dar de baja y republicar",
+                        "summary": "Si eres Particular y luego de la fecha de vencimiento aún no arrendaste o vendiste el inmueble, ¡descuida! Podrás republicarlo para que esté nuevamente disponible. Ingresa al <a href=https://myaccount.portalinmobiliario.com/listings>listado de publicaciones</a> y desde el menú de acciones de tu publicación, elige Republicar.<br /><br /><strong> Publicación Gratis</strong><br /><br />Una vez que finalice tu publicación, podrás volver a publicarla sin pagar, siempre que no tengas otra Gratuita (activa o inactiva). Si prefieres, podrás aumentar su exposición y pagar para que tu publicación se destaque.<br/><br/><strong>Publicación Paga</strong><br /><br />Si es una publicación paga, al Republicar podrás volver a pagar para que tu publicación esté nuevamente disponible. Podrás elegir el tipo de exposición que quieras.<br/><br/>Si eres <strong>Corredor</strong> y utilizas <strong>Seguidor</strong> tienes las siguientes opciones disponibles:<br /><br /><strong>Despublicar</strong><br /><br />Cuando despublicas, la propiedad se elimina de Portalinmobiliario.com, pero no de tu administrador Seguidor.<br /><br/>Ingresa al listado de propiedades en Seguidor, elige la propiedad y selecciona Publicar/Destacar. Se abrirá una ventana y debes elegir Despublicar en el selector debajo del título Detalle publicación. Presiona Aceptar y ¡listo!<br /><br />Una vez terminado el proceso, Seguidor te notificará con un mensaje y la propiedad quedará con el icono Gris de No Publicada. Para volver a publicarla, solo debes repetir los mismos pasos, pero ahora selecciona Publicar.<br /><br /><strong>Dar de baja una propiedad</strong><br /><br />Si bien desde Seguidor no puedes borrar las propiedades, puedes Dar de baja, lo que significa que desaparecen de tu vista diaria de Seguidor.<br /><br />Ingresa al listado de propiedades en Seguidor, selecciona la que ya no esté disponible y haz clic en Dar de baja. El sistema te mostrará una ventana donde puedes ingresar la información solicitada y luego elegir Dar de baja.<br /><br /><strong>Republicar</strong><br /><br />Vuelve a publicar una propiedad en Portalinmobiliario.com<br /><br />Si la publicación está disponible:<br/><br/>Ingresa al listado de propiedades en Seguidor, elige la propiedad y selecciona Publicar/Destacar. Se abrirá una ventana donde se te indica que la propiedad se va a Publicar, presiona Aceptar para que sea re publicada en Portalinmobiliario.com.<br /><br />Terminado el proceso, Seguidor te notificará con un mensaje y la propiedad tendrá el icono verde de Publicada.<br /><br />Si la publicación está dada de baja (desactivada):<br /><br />Desde Seguidor, puedes volver a publicar una propiedad que ya no se encuentra disponible. Solo tienes que buscarla en Propiedades/Buscar, selecciona No disponible y elige la unidad que quieres reactivar. Modifica los campos que sean necesarios y presiona Reactivar al final de la página.<br /><br />Si eres Inmobiliaria contáctate con tu asesor comercial y verás los productos que tenemos para ofrecerte y destacar tus publicaciones."
+                    },
+                    {
+                        "number": 1.4,
+                        "title": "Modificar la publicación",
+                        "summary": "<strong>Particular</strong>:<br /><br />Si quieres modificar tus publicaciones, puedes hacerlo entrando al detalle de cada una desde tu <a href=https://myaccount.portalinmobiliario.com/listings>listado de publicaciones</a>. Podrás actualizar datos como las fotos, descripción, teléfono o tipo de exposición.<br /><br />Ten en cuenta que una vez que publiques, ya no podrás modificar el tipo de inmueble y su operación.<br /><br /><strong>Corredor</strong>:<br /><br />Si quieres modificar tus publicaciones, puedes hacerlo entrando al detalle de cada una desde tu listado de propiedades en Seguidor. Elige la unidad que quieres modificar y selecciona Editar. Realiza los cambios y no olvides Guardar.<br /><br/><strong>Inmobiliaria</strong>:<br /><br/>Desde <a href=https://myaccount.portalinmobiliario.com/>Mi cuenta</a> puedes ver tus proyectos vigentes y modificar los datos de tus publicaciones, tales como teléfonos, fecha de entrega, descripción y listado de precios.<br /><br />Si quieres editar el valor mínimo de reserva debes elegir Reserva. Podrás modificar el monto, tipo de moneda y agregar comentarios.<br /><br />La forma de pago se edita de la misma manera y también puedes agregar más de una.<br /><br />En Departamentos puedes revisar los valores de cada unidad que marcaste como disponible para su venta o arriendo.<br /><br />Para modificar los campos bloqueados en <a href=https://myaccount.portalinmobiliario.com/>Mi cuenta</a>, escríbele a nuestros gestores que te ayudarán: <a href=mailto:clientes@portalinmobiliario.com>clientes@portalinmobiliario.com</a>"
+                    },
+                    {
+                        "number": 1.5,
+                        "title": "Cambiar el tipo de publicación u operación",
+                        "summary": "No puedes cambiar el tipo de propiedad de casa a departamento o de departamento a oficina. Tampoco puedes cambiar el tipo de operación, por ejemplo, de arriendo a venta. Para ambos casos tienes que crear una nueva publicación con los datos correctos. <br /><br />Recuerda eliminar la anterior, así evitas que haya información incorrecta publicada.<br /><br />"
+                    },
+                    {
+                        "number": 1.6,
+                        "title": "Publicaciones prohibidas",
+                        "summary": "Ante todo, no permitimos lo que las leyes no permiten.<br /><br />Si tienes dudas, antes que nada averigua si es legal venderlo. Básicamente, si la ley no lo permite, nosotros tampoco.<br /><br />Es muy importante que estés seguro antes de publicar, porque además de dar de baja las publicaciones que no cumplan con nuestras políticas, cada infracción queda registrada en un historial y podemos suspender tu cuenta.<br /><br />No permitimos cualquier tipo de propiedad robada, ya sean de individuos privados o propiedad de empresas y gobiernos.<br /><br />El objetivo de Portalinmobiliario.com es ser el mejor sitio en internet para buscar y ofrecer propiedades, nuevas y usadas. El sitio no está relacionado, directa o indirectamente, con ninguna empresa inmobiliaria, corredora de propiedades, banco, grupo económico o institución gremial que pudiera generar restricciones al contenido o producir distorsiones en la objetividad de su presentación."
+                    },
+                    {
+                        "number": 1.7,
+                        "title": "Revisa los contactos que recibes",
+                        "summary": "Si eres <strong>Particular</strong>, puedes revisar quiénes te contactaron desde <a href=https://myaccount.portalinmobiliario.com/contacts>Datos de mis interesados</a>. Ahí encontrarás la información de quienes te contactaron mediante Portalinmobiliario.com o Mercado Libre.<br /> <br />Desde el <a href=https://myaccount.portalinmobiliario.com/listings>listado de publicaciones</a> puedes ver la cantidad de visitas que recibió tu publicación.<br /> <br />Si eres <strong>Corredores con Seguidor</strong> puedes obtener informes de propiedades, clientes, cierres, órdenes de visita, bolsa de propiedades y visitas. Todo, a través de la opción Informes del menú lateral izquierdo en Seguidor. Allí obtendrás la evolución de las visitas de toda tu cartera y el detalle de las visitas a cada una de tus propiedades, pudiendo filtrar por:<br/><br />Código de la propiedad (Interno de Seguidor), Tipo de Propiedad, Tipo de Operación, Fecha de búsqueda (por defecto de muestras 1 mes a partir de ayer) y Comuna.<br /><br />Si ya estás registrado como <strong>Inmobiliaria</strong>, ingresa a Administración de proyectos en <a href=https://myaccount.portalinmobiliario.com/>Mi cuenta</a>.<br /><br />Selecciona el proyecto y en el Resumen de Actividades, podrás conocer las visitas, las cotizaciones y los cotizantes.<br /><br />También, puedes ir a Informe para conocer los datos de contacto de quienes han cotizado tu proyecto. Podrás descargar un Excel para que sea más fácil ordenar y filtrar los datos."
+                    },
+                    {
+                        "number": 2,
+                        "title": " Cargos y facturación",
+                        "summary": ""
+                    },
+                    {
+                        "number": 2.1,
+                        "title": "Costos de publicar y vender",
+                        "summary": "¡Mira todas las posibilidades que tenemos para ti!<br /><br />Si eres <strong>Particular</strong>, tienes una propiedad gratuita a la vez, esté activa o inactiva. Siempre que quieras, podrás aumentar su exposición desde tu <a href=https://myaccount.portalinmobiliario.com/listings>listado de publicaciones</a>.<br /><br />Si eres <strong>Corredor</strong>, tenemos planes para que saques el máximo provecho de publicar con nosotros, <a href=https://seguidor.portalinmobiliario.cl/>¡conócelos!</a><br /><br />Si eres <strong>Inmobiliaria</strong>, te recomendamos que elijas alguno de los <a href=https://www.portalinmobiliario.com/pi/home/info/publica>recursos para promover tus proyectos inmobiliarios</a> que ofrece Portalinmobiliario.com."
+                    },
+                    {
+                        "number": 2.2,
+                        "title": "Si soy corredora o inmobiliaria, cómo veo y pago mi factura con Mercado Pago",
+                        "summary": "Inicia sesión y entra a <a href=https://myaccount.portalinmobiliario.com/>Mi cuenta</a>, a la derecha aparece la opción Pagar Online, ahí encontrarás el detalle de tu factura.<br /><br />Puedes pagar a través de Mercado Pago, utilizando tu dinero disponible en cuenta, tarjetas de crédito y de débito, a través de Webpay.<br /><br />Si tienes dudas sobre tus pagos con Mercado Pago, revisa las preguntas <a href=https://www.mercadopago.cl/>frecuentes que preparamos para ti</a>.",
+                        "table": {
+                            "heading": [
+                                "Medio de Pago",
+                                "Tiempo de acreditación",
+                                "Pago mínimo y máximo"
+                            ],
+                            "body": [
+                                [
+                                    "<strong>Dinero disponible</strong> en tu cuenta de <strong>MercadoPago</strong> <br /> <img class='responsive-image' width='75' height='20' loading='lazy' src='https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-mercado-pago-logo.png' srcset='https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-mercado-pago-logo@2x.png 2x, https://http2.mlstatic.com/optimize/o:f_jpg,q_auto:best/resources/valhalla/MLC-PI-mercado-pago-logo@3x.png 3x' />",
+                                    "Se acredita instantáneamente, pero <strong>tarda algunas horas en verse reflejado en tu cuenta.</strong>",
+                                    "Sin límite"
+                                ],
+                                [
+                                    "<strong>Tarjetas de crédito:</strong> <br /> <img class='svg-image' width=30 height=11 loading='lazy' src='https://http2.mlstatic.com/optimize/o:f_svg,q_auto:best/resources/valhalla/MLC-PI-logo-visa.svg' /> <img class='svg-image' width=28 height=22 loading='lazy' src='https://http2.mlstatic.com/optimize/o:f_svg,q_auto:best/resources/valhalla/MLC-PI-mastercard.svg' /> <img class='svg-image' width=25 height=21 loading='lazy' src='https://http2.mlstatic.com/optimize/o:f_svg,q_auto:best/resources/valhalla/MLC-PI-diners.svg' /> <img class='svg-image' width=25 height=25 loading='lazy' src='https://http2.mlstatic.com/optimize/o:f_svg,q_auto:best/resources/valhalla/MLC-PI-amex.svg' /> <img class='svg-image' width=40 height=25 loading='lazy' src='https://http2.mlstatic.com/optimize/o:f_jpg,q_auto:best/resources/valhalla/MLC-PI-magna.jpg' srcset='https://http2.mlstatic.com/optimize/o:f_jpg,q_auto:best/resources/valhalla/MLC-PI-magna@2x.jpg 2x, https://http2.mlstatic.com/optimize/o:f_jpg,q_auto:best/resources/valhalla/MLC-PI-magna@3x.jpg 3x' />",
+                                    "Se acredita instantáneamente, pero <strong>tarda algunas horas en verse reflejado en tu cuenta.</strong> Algunas tarjetas de crédito no aceptan cuotas menores a $ 1.000.",
+                                    "Mín. $ 0,01 - Máx. $ 7.000.000"
+                                ],
+                                [
+                                    "<strong>Tarjeta de débito con RedCompra (Webpay):</strong> Te pediremos tu rut, número de tarjeta de débito y el generador de claves de internet. <br /> <img width=76 height=34 class='responsive-image' src='https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-webpay.png' srcset='https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-webpay@2x.png 2x, https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-webpay@3x.png 3x' />",
+                                    "Se acredita instantáneamente, pero <strong>tarda algunas horas en verse reflejado en tu cuenta.</strong>",
+                                    "Mín. $ 950 - Máx. $ 3.000.000"
+                                ],
+                                [
+                                    "<strong>Transferencia bancaria:</strong> Puedes realizarla desde internet con un generador de claves o desde la terminal de pagos de tu móvil. <br /> <img class='responsive-image' width=68 height=27 src='https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-khipu.png' srcset='https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-khipu@2x.png 2x, https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-khipu@3x.png 3x' />",
+                                    "Se acredita instantáneamente.",
+                                    "Mín. $ 2.000 - Máx. $ 5.000.000"
+                                ],
+                                [
+                                    "<strong>Servipag:</strong> <br /> <img class='responsive-image' width=95 height=36 src='https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-servipag-logo.png' srcset='https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-servipag-logo@2x.png 2x, https://http2.mlstatic.com/optimize/o:f_png,q_auto:best/resources/valhalla/MLC-PI-servipag-logo@3x.png 3x' />",
+                                    "Se acredita instantáneamente.",
+                                    "Mín. $ 0,01 - Máx. $ 500.000"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "number": 2.3,
+                        "title": "Resolver un problema con una factura de Mercado Libre",
+                        "summary": "Contáctate con <a href=mailto:cobranzas@portalinmobiliario.com>cobranzas@portalinmobiliario.com</a> o realiza un reclamo a través de Mercado Pago."
+                    },
+                    {
+                        "number": 2.4,
+                        "title": "Cómo retirar el dinero de una venta por Mercado Pago",
+                        "summary": "Puedes retirar el dinero gratis a una cuenta bancaria desde tu <a href=https://www.mercadopago.cl/activities>cuenta de Mercado Pago</a>.<br /><br />Tendrás el dinero al siguiente día hábil de hacer el retiro."
+                    },
+                    {
+                        "number": 2.5,
+                        "title": "Retiré el dinero, pero no está en mi cuenta bancaria",
+                        "summary": "Quédate tranquilo, vamos a ayudarte.<br /><br />Lo primero que puedes hacer es <a href=https://www.mercadopago.cl/activities/1?type=withdraw>chequear la fecha en que pediste el retiro</a>, ten en cuenta que demora hasta 3 días hábiles en acreditarse.<br /><br />Si ya pasó el plazo de acreditación, busca en tu estado de cuenta por fecha o por el importe exacto. También puedes buscar por el código de retiro que te enviamos en el e-mail de confirmación. ¡Con esos datos seguro lo encuentras!<br /><br />En el caso de que hubiera un error o alguno de los datos de la transferencia fuera incorrecto, el banco rechaza la acreditación del dinero, <strong>regresamos el monto completo a tu cuenta de Mercado Pago</strong> y te enviamos un e-mail contándote el motivo.<br /><br />Si aún no puedes verlo, dinos <a href=https://ayuda.mercadolibre.cl/ayuda/withdrawals?faq_id=1769>cuál es el retiro</a> y vemos con más detalle qué pasó.<br /><br /><strong>Para resolver el problema con una publicación, puedes contactarnos a:<br /><br />Corredor: soporte@portalinmobiliario.com<br /><br />Inmobiliaria: clientes@portalinmobiliario.com</strong>"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "title": "Consejos para compradores",
+                "childs": [
+                    {
+                        "number": 1,
+                        "title": "Cómo elegir a qué vendedor comprarle",
+                        "summary": "Queremos prevenir que pases un mal rato, te invitamos a revisar nuestros <a href=https://www.portalinmobiliario.com/pi/home/landings/tips_de_arriendos/>tips de arriendos</a>, sácate tus dudas y pregúntale al vendedor todo lo que necesites saber. Por ejemplo, solicita la dirección exacta y todos los datos del oferente."
+                    },
+                    {
+                        "number": 2,
+                        "title": "Qué denunciar",
+                        "summary": "Abajo de cada publicación tienes la opción de denunciar.<br /><br />Los motivos por los que puedes denunciar son:<br /><br />- El inmueble que ofrece no cumple con nuestras políticas de artículos prohibidos.<br /><br />- Tiene contenido ofensivo, obsceno o discriminatorio.<br /><br />- Vende varios inmuebles de precios diferentes en una misma publicación.<br /><br />- El vendedor me estafó.<br /><br />- Creo que es un intento de fraude.<br /><br />- Está publicando mi inmueble.<br /><br />- La publicación me parece sospechosa."
+                    },
+                    {
+                        "number": 3,
+                        "title": "Por qué guardar en favoritos",
+                        "summary": "Guarda las propiedades o proyectos que más se acomoden a tus gustos y necesidades, presionado el corazón de la opción Agregar a tus favoritos.<br /><br />De esta manera, podrás tener un listado con las propiedades elegidas y ordenarlas por diferentes criterios para facilitar tu búsqueda."
+                    },
+                    {
+                        "number": 4,
+                        "title": "Por qué usar la sección Preguntas",
+                        "summary": "En <a href=https://questions.portalinmobiliario.com/#preguntas/comprador>Preguntas</a> encontrarás todas las consultas que realices tanto en Mercado Libre como en Portalinmobiliario.com. Si el vendedor te responde desde el sitio en lugar de contactarte por teléfono o e-mail, podrás ver su respuesta desde ahí."
+                    }
+                ]
+            }
+        ]
+    }
+}
